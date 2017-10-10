@@ -1,2 +1,11 @@
 # SelfData
-common to see
+common
+
+if (tiled)
+{
+  Slep();
+}
+else
+{
+  MissU();
+}
